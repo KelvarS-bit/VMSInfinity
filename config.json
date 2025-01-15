@@ -1,4 +1,34 @@
 {
-  "title": "Infinity",
+  "title": "OLSEK VSS AI",
   "languages": ["EN", "ES", "FR", "PT"],
+  "fonts": {
+    "thin": "Questrial-Regular",
+    "normal": "Questrial-Regular",
+    "semibold": "Questrial-Regular",
+    "bold": "Questrial-Regular"
+  },
+  "colors": {
+    "primaryColorsPalette": [
+      "#0580AF",
+      "#006C9A",
+      "#006794",
+      "#004F7A",
+      "#035270",
+      "#003861",
+      "#002950",
+      "#002A3A",
+      "#002349"
+    ],
+    "accentColorsPalette": [
+      "#FF8500",
+      "#B35D00",
+      "#FF850099",
+      "#FF85004D"
+    ],
+    "secondaryAccentColorsPalette": [
+      null,
+      null,
+      "#FF8500"
+    ]
+  }
 }
